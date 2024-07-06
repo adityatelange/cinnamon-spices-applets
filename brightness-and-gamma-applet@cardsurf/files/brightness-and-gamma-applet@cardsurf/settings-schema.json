@@ -120,7 +120,7 @@
     },
     "gui_icon_filepath" : {
         "type" : "filechooser",
-        "default" : "~/.local/share/cinnamon/applets/brightness-and-gamma-applet@cardsurf/icons/sun.svg",
+        "default" : "~/.local/share/cinnamon/applets/brightness-and-gamma-applet@cardsurf/icons/sun-symbolic.svg",
         "description" : "Icon",
         "tooltip": "An icon displayed in a panel"
     },
